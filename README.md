@@ -33,5 +33,3 @@ Then run:
 ```bash
 python dna_sequence_analysis.py
 ```
-
-```
